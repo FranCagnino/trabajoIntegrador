@@ -1,0 +1,1 @@
+Hola este es un equipo integrado para resolver la consigna de la clase en vivo sobre git y github.
